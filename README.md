@@ -17,6 +17,10 @@ Solution1 is a Visual Studio 2010 playground of unused C# and VB.NET starter tem
 
 `Solution1.sln` is Visual Studio 2010 Format 11.00 with no Project entries, so opening the solution does not load any of the four projects. Open each project file directly in Visual Studio 2010 (or later with .NET Framework 4.0 targeting): `ConsoleApplication1/ConsoleApplication1.csproj`, `ConsoleApplication2/ConsoleApplication2.vbproj`, `WindowsApplication1/WindowsApplication1.vbproj`, `WindowsFormsApplication1/WindowsFormsApplication1.csproj`.
 
+## Requirements
+
+- Visual Studio 2010, .NET Framework 4.0
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `Solution1`. Assembly company and copyright on all four projects are Visual Studio template defaults: Microsoft / Copyright © Microsoft 2011. ProductVersion 8.0.30703 (C# projects); ToolsVersion 4.0.
