@@ -23,7 +23,7 @@ Solution1 is a Visual Studio 2010 playground of unused C# and VB.NET starter tem
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `Solution1`. Assembly company and copyright on all four projects are Visual Studio template defaults: Microsoft / Copyright © Microsoft 2011. ProductVersion 8.0.30703 (C# projects); ToolsVersion 4.0.
+Working copy from my Historical Dev folder `Solution1`. Assembly company and copyright on all four projects are Visual Studio template defaults: Microsoft / Copyright © Microsoft 2011. ProductVersion 8.0.30703 (C# projects); ToolsVersion 4.0.
 
 ## License
 
